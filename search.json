@@ -12,5 +12,33 @@
     "title": "quarto-website-test",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "slides",
+    "section": "",
+    "text": "item 1\nitem 2\nitem 3"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "slides",
+    "section": "",
+    "text": "item 1\nitem 2\nitem 3"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "slides",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nitem 4\nitem 5\nitem 6"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "slides",
+    "section": "Slide 3",
+    "text": "Slide 3\n\nitem 7\nitem 8\nitem 9"
   }
 ]
